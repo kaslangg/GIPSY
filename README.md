@@ -1,5 +1,5 @@
 # Global analysIs of Protein StabilitY
-![Logo][Gipsy_logo.png]
+![Logo](Gipsy_logo.png)
 
 This repo contains the script and analysis method I developed for doing the analysis for et the method I developed during mas Master at Aarhus University.
 
