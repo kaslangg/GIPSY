@@ -1,0 +1,5 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,93,25078,2,0.49
+ENOA_HUMAN,Alpha-enolase,54,47481,1,0.11
+TrXAHuntington25Q,Huntington25Q,36,23042,1,0.24
+sp|P00746|CFAD_HUMAN,Complement factor D OS=Homo sapiens GN=CFD PE=1 SV=5,33,27529,1,0.2

@@ -1,0 +1,9 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,184,25078,2,0.47
+ENOA_HUMAN,Alpha-enolase,68,47481,1,0.11
+sp|P00746|CFAD_HUMAN,Complement factor D OS=Homo sapiens GN=CFD PE=1 SV=5,42,27529,1,0.19
+TrXAHuntington25Q,Huntington25Q,36,23042,1,0.23
+IGHG1_HUMAN_K97T,Ig gamma-1 chain C region (Homo sapiens),30,36569,1,0.14
+Phosphocarrier_protein,HPr  ,29,9086,1,0.67
+OSTP_Wt,OSTP_Wt,27,35041,1,0.15
+P02666,CASB_BOVIN Beta-casein OS=Bos taurus GN=CSN2 PE=1 SV=2,27,25148,1,0.21

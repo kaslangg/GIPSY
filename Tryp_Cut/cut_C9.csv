@@ -1,0 +1,4 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,458,25078,2,0.47
+Phosphocarrier_protein,HPr  ,108,9086,2,1.8
+TrXAHuntington25Q,Huntington25Q,95,23042,2,0.52

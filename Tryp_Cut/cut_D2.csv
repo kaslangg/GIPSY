@@ -1,0 +1,7 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,130,25078,2,0.46
+P02666,CASB_BOVIN Beta-casein OS=Bos taurus GN=CSN2 PE=1 SV=2,79,25148,1,0.21
+sp|P00746|CFAD_HUMAN,Complement factor D OS=Homo sapiens GN=CFD PE=1 SV=5,44,27529,1,0.19
+TrXAHuntington25Q,Huntington25Q,37,23042,1,0.23
+IGHG1_HUMAN_K97T,Ig gamma-1 chain C region (Homo sapiens),35,36569,1,0.14
+Q06033,ITIH3_HUMAN Inter-alpha-trypsin inhibitor heavy chain H3 OS=Homo sapiens GN=ITIH3 PE=1 SV=2,32,100072,1,0.05

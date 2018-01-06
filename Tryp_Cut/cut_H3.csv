@@ -1,0 +1,6 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,107,25078,2,0.49
+ENOA_HUMAN,Alpha-enolase,48,47481,1,0.11
+IGHG1_HUMAN_K97T,Ig gamma-1 chain C region (Homo sapiens),32,36569,1,0.15
+sp|P00746|CFAD_HUMAN,Complement factor D OS=Homo sapiens GN=CFD PE=1 SV=5,31,27529,1,0.2
+21kDaproSAAS,21kDaproSAAS,27,20191,1,0.28

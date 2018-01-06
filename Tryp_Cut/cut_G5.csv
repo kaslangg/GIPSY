@@ -1,0 +1,5 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,144,25078,2,0.47
+Phosphocarrier_protein,HPr  ,111,9086,2,1.8
+TrXAHuntington25Q,Huntington25Q,31,23042,1,0.23
+IGHG1_HUMAN_K97T,Ig gamma-1 chain C region (Homo sapiens),27,36569,1,0.14

@@ -1,0 +1,6 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,429,25078,2,0.49
+TrXAHuntington25Q,Huntington25Q,169,23042,3,0.91
+Phosphocarrier_protein,HPr  ,116,9086,2,1.9
+sp|P00746|CFAD_HUMAN,Complement factor D OS=Homo sapiens GN=CFD PE=1 SV=5,39,27529,1,0.2
+FIBA_HUMAN,Fibrinogen alpha chain P02671,29,93505,1,0.06

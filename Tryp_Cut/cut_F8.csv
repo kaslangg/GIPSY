@@ -1,0 +1,6 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,377,25078,2,0.78
+Phosphocarrier_protein,HPr  ,82,9086,1,0.67
+TrXAHuntington25Q,Huntington25Q,67,23042,1,0.23
+P02666,CASB_BOVIN Beta-casein OS=Bos taurus GN=CSN2 PE=1 SV=2,33,25148,1,0.21
+ENOA_HUMAN,Alpha-enolase,33,47481,1,0.11

@@ -1,0 +1,5 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,325,25078,2,0.46
+Phosphocarrier_protein,HPr  ,119,9086,2,1.76
+TrXAHuntington25Q,Huntington25Q,76,23042,1,0.23
+sp|P00746|CFAD_HUMAN,Complement factor D OS=Homo sapiens GN=CFD PE=1 SV=5,49,27529,1,0.19

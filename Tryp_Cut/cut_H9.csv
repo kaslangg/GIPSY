@@ -1,0 +1,7 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,725,25078,2,0.82
+TrXAHuntington25Q,Huntington25Q,190,23042,1,0.24
+P02769,Serum albumin,44,71244,1,0.07
+Phosphocarrier_protein,HPr  ,37,9086,1,0.7
+P02666,CASB_BOVIN Beta-casein OS=Bos taurus GN=CSN2 PE=1 SV=2,31,25148,1,0.22
+IGHG1_HUMAN_K97T,Ig gamma-1 chain C region (Homo sapiens),26,36569,1,0.15

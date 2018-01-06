@@ -1,0 +1,8 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P02666,CASB_BOVIN Beta-casein OS=Bos taurus GN=CSN2 PE=1 SV=2,244,25148,2,0.78
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,110,25078,2,0.47
+TrXAHuntington25Q,Huntington25Q,43,23042,1,0.23
+sp|P00746|CFAD_HUMAN,Complement factor D OS=Homo sapiens GN=CFD PE=1 SV=5,41,27529,1,0.19
+P02769,Serum albumin,39,71244,2,0.15
+AT1A2_MOUSE,Sodium/potassium-transporting ATPase subunit alpha-2 ,33,113457,1,0.04
+ENOA_HUMAN,Alpha-enolase,31,47481,1,0.11

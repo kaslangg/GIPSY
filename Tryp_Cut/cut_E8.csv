@@ -1,0 +1,7 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,645,25078,2,0.48
+TrXAHuntington25Q,Huntington25Q,194,23042,4,1.34
+Phosphocarrier_protein,HPr  ,105,9086,2,1.85
+AT1A2_MOUSE,Sodium/potassium-transporting ATPase subunit alpha-2 ,46,113457,2,0.09
+P02666,CASB_BOVIN Beta-casein OS=Bos taurus GN=CSN2 PE=1 SV=2,38,25148,2,0.48
+sp|P00746|CFAD_HUMAN,Complement factor D OS=Homo sapiens GN=CFD PE=1 SV=5,31,27529,1,0.2

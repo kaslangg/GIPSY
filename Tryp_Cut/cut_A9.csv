@@ -1,0 +1,11 @@
+prot_acc,prot_desc,prot_score,prot_mass,prot_sequences_sig,emPAI_value
+P00761,TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1,591,25078,2,0.76
+P02769,Serum albumin,195,71244,5,0.4
+FIBB_HUMAN,Fibrinogen beta chain P02675,112,52908,4,0.43
+TrXAHuntington25Q,Huntington25Q,97,23042,2,0.5
+Phosphocarrier_protein,HPr  ,96,9086,1,0.66
+FIBG_HUMAN,Fibrinogen gamma chain P02679,73,49023,1,0.1
+P02666,CASB_BOVIN Beta-casein OS=Bos taurus GN=CSN2 PE=1 SV=2,64,25148,2,0.45
+P24627,Lactotransferrin,46,80002,1,0.06
+FIBA_HUMAN,Fibrinogen alpha chain P02671,29,93505,1,0.05
+P08311,Cathepsin G,29,29161,1,0.18
