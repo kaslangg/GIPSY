@@ -12,7 +12,7 @@ The Repo is a bit caotic and only contains data from one experient
 
 * Clean this repo
 * Write Documentaion
-* Writer Better README.md
+* Write Better README.md
 
 ---
 
